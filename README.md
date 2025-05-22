@@ -27,7 +27,7 @@ This project analyzes historical stock data of NASDAQ-listed companies retrieved
 
 - ### 🔗 Outputs
 - ![Dashboard Preview](./Dashboard-screenshot.png)
-- [📄 View Full Report (PDF)](./Project-report.pdf)
+- [📄 View Full Report (PDF)](./Project-Report.pdf)
 
 
 
